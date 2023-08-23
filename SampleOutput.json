@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "US condemns ‘brutal’ sexual assault video from India’s Manipur - Al Jazeera English",
+      "description": "US State Department says it is deeply concerned by reports of viral video showing two women paraded naked in the state.",
+      "url": "https://www.aljazeera.com/news/2023/7/24/us-condemns-brutal-sexual-assault-video-from-indias-manipur",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/07/AP23203419551348-1690040018.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-07-24T09:55:46Z",
+      "content": "The United States says it is deeply concerned by reports of a viral video showing two women paraded naked in Indias northeastern state of Manipur, a sexual assault case that enraged the country.\r\nThe… [+3011 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Jacopo Prisco",
+      "title": "There is a ‘gravity hole’ in the Indian Ocean, and scientists now think they know why - CNN",
+      "description": "An anomaly known as the geoid low has long puzzled geologists. One team has found what it believes is a credible explanation, and it’s coming from deep inside Earth.",
+      "url": "https://www.cnn.com/2023/07/24/world/gravity-hole-geoid-low-indian-ocean-scn/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230720105429-gravity-hole-geoid-low-indian-ocean.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-07-24T08:45:00Z",
+      "content": "Editors Note: Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThere is a gravity hole in the Indian Oc… [+6599 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Rhea Mogul",
+      "title": "Sex scene in ‘Oppenheimer’ becomes latest target of India’s Hindu nationalists - CNN",
+      "description": "Christopher Nolan’s latest blockbuster movie “Oppenheimer” has sparked controversy among the Hindu-right in India, with some calling for a boycott and demanding the removal of a sex scene in which the titular character utters a famous line from the religion’s…",
+      "url": "https://www.cnn.com/2023/07/24/media/india-oppenheimer-backlash-hindu-right-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230721154806-cillian-murphy-oppenheimer-still.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-07-24T07:07:00Z",
+      "content": "Christopher Nolans latest blockbuster movie Oppenheimer has sparked controversy among the Hindu-right in India, with some calling for a boycott and demanding the removal of a sex scene in which the t… [+4174 chars]"
+    }
+  ]
+}
